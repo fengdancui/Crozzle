@@ -1,0 +1,9 @@
+D:\Documents\Deakin\SIT323 PSD\Assignment\Assign2\SIT323 Assessment Task 2_215012915\Crozzle\bin\Debug\Crozzle.exe.config
+D:\Documents\Deakin\SIT323 PSD\Assignment\Assign2\SIT323 Assessment Task 2_215012915\Crozzle\bin\Debug\Crozzle.exe
+D:\Documents\Deakin\SIT323 PSD\Assignment\Assign2\SIT323 Assessment Task 2_215012915\Crozzle\bin\Debug\Crozzle.pdb
+D:\Documents\Deakin\SIT323 PSD\Assignment\Assign2\SIT323 Assessment Task 2_215012915\Crozzle\obj\Debug\Crozzle.csprojResolveAssemblyReference.cache
+D:\Documents\Deakin\SIT323 PSD\Assignment\Assign2\SIT323 Assessment Task 2_215012915\Crozzle\obj\Debug\Crozzle.Form1.resources
+D:\Documents\Deakin\SIT323 PSD\Assignment\Assign2\SIT323 Assessment Task 2_215012915\Crozzle\obj\Debug\Crozzle.Properties.Resources.resources
+D:\Documents\Deakin\SIT323 PSD\Assignment\Assign2\SIT323 Assessment Task 2_215012915\Crozzle\obj\Debug\Crozzle.csproj.GenerateResource.Cache
+D:\Documents\Deakin\SIT323 PSD\Assignment\Assign2\SIT323 Assessment Task 2_215012915\Crozzle\obj\Debug\Crozzle.exe
+D:\Documents\Deakin\SIT323 PSD\Assignment\Assign2\SIT323 Assessment Task 2_215012915\Crozzle\obj\Debug\Crozzle.pdb
